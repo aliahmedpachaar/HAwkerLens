@@ -1,0 +1,5 @@
+{
+  "name": "HawkerLens",
+  "description": "Decode Malaysian Street Food and identify potential allergens with AI.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
